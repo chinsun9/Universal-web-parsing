@@ -1,0 +1,6 @@
+{
+  "url": "http://localhost:3000/",
+  "sel": "body > ul",
+  "interval": "*/3 * * * * ?",
+  "length": 34
+}
